@@ -1,4 +1,3 @@
-import React from 'react'
 import { useContext } from 'react'
 import { useEffect } from 'react'
 import { DoctorContext } from '../../context/DoctorContext'
