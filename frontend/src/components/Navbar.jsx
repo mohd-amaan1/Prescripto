@@ -36,7 +36,19 @@ const Navbar = () => {
           <li className='py-1'>CONTACT</li>
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
+        {/* Admin Panel Button */}
+        <li>
+          <a
+            href={import.meta.env.VITE_ADMIN_PANEL_URL}
+            target='_blank'
+            rel='noopener noreferrer'
+            className='border border-slate-200 px-3 py-2 rounded-full hover:bg-black hover:text-white transition duration-200 text-xs'
+          >
+            Admin Panel
+          </a>
+        </li>
       </ul>
+
 
       <div className='flex items-center gap-4 '>
         {
