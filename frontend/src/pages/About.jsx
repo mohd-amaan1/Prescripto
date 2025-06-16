@@ -36,7 +36,11 @@ const About = () => {
           <b>PERSONALIZATION:</b>
           <p >Tailored recommendations and reminders to help you stay on top of your health.</p>
         </div>
+        
       </div>
+      <p className="text-sm text-gray-500 mt-12 border-t pt-4">
+          <strong>Disclaimer:</strong> Prescripto is a demonstration project developed solely for educational and portfolio purposes. All doctor profiles, appointments, patient data, and payment transactions shown on this platform are entirely fictitious. No real medical consultations are conducted, and no actual payments are processed. This system is not intended for real-world or commercial use.
+        </p>
 
     </div>
   )
