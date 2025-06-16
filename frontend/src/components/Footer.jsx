@@ -21,11 +21,11 @@ const Footer = () => {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to = '/about'>
-                About us
-              </Link>
+              <Link to="/about">About us</Link>
             </li>
-            <li>Delivery</li>
+            <li>
+              <Link to="/contact">Contact Us</Link>
+            </li>
             <li>Privacy policy</li>
           </ul>
         </div>
@@ -33,7 +33,7 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>64750xxxxx</li>
+            <li>64750XXXX</li>
             <li>xyx@gmail.com</li>
           </ul>
         </div>
