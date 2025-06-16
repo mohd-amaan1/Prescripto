@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from './components/Navbar'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
@@ -13,6 +12,7 @@ import Footer from './components/Footer'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify'
+import { Analytics } from '@vercel/analytics/react';
 
 const App = () => {
   return (
@@ -32,6 +32,7 @@ const App = () => {
         <Route path='/verify' element={<Verify />} />
       </Routes>
       <Footer />
+      <Analytics />
     </div>
   )
 }
