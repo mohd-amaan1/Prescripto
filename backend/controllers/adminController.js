@@ -9,7 +9,6 @@ import userModel from "../models/userModel.js";
 // API for admin login
 const loginAdmin = async (req, res) => {
     try {
-
         const { email, password } = req.body
 
         if (email === process.env.ADMIN_EMAIL && password === process.env.ADMIN_PASSWORD) {
@@ -25,7 +24,6 @@ const loginAdmin = async (req, res) => {
     }
 
 }
-
 
 // API to get all appointments list
 const appointmentsAdmin = async (req, res) => {
