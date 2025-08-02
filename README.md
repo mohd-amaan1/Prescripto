@@ -1,8 +1,8 @@
-# 🩺 Prescripto – Doctor Appointment Booking System
+# 🩺 Medisure – Doctor Appointment Booking System
 
-Prescripto is a **full-featured healthcare web platform** built to streamline the process of booking medical appointments online. With role-based authentication for **Patients, Doctors, and Admins**, Prescripto enables efficient appointment management, real-time earnings dashboards, and **secure payments via Stripe and Razorpay**.
+Medisure is a **full-featured healthcare web platform** built to streamline the process of booking medical appointments online. With role-based authentication for **Patients, Doctors, and Admins**, Medisure enables efficient appointment management, real-time earnings dashboards, and **secure payments via Stripe and Razorpay**.
 
-Whether you're a patient looking for a trusted physician, a doctor managing your appointments, or an admin handling the backend — Prescripto offers a complete and modern digital solution.
+Whether you're a patient looking for a trusted physician, a doctor managing your appointments, or an admin handling the backend — Medisure offers a complete and modern digital solution.
 
 ---
 
@@ -71,7 +71,7 @@ Whether you're a patient looking for a trusted physician, a doctor managing your
 
 ### 📄 About
 
-* Overview of Prescripto’s vision and advantages.
+* Overview of Medisure’s vision and advantages.
 * Section: *Why Choose Us?*
 
   * Fast & Efficient Booking.
@@ -112,7 +112,7 @@ Whether you're a patient looking for a trusted physician, a doctor managing your
 
 ## 💳 Payment Integration
 
-Prescripto offers a **flexible payment model**:
+Medisure offers a **flexible payment model**:
 
 | Method      | Status           |
 | ----------- | ---------------- |
@@ -126,14 +126,14 @@ All payments are securely handled, and payment status is updated on appointment 
 
 ## 📝 Disclaimer
 
-**Prescripto is a portfolio-level project created for demonstration and educational purposes only.**
+**Medisure is a portfolio-level project created for demonstration and educational purposes only.**
 All medical listings, bookings, and payment integrations are mock implementations. No actual medical services are provided, and all user data is fictitious. This system is not intended for commercial use.
 
 ---
 
 ## 📬 Connect & Contribute
 
-🔹 **Found a bug?** [Open an issue](https://github.com/mohd-amaan1/Prescripto/issues)
+🔹 **Found a bug?** [Open an issue](https://github.com/mohd-amaan1/Medisure/issues)
 🔹 **Have an idea?** Submit a Pull Request!  
 🔹 **Need help or want to discuss?** Join the [GitHub Discussions](#)  
 

@@ -6,9 +6,9 @@ const Footer = () => {
     <div className="md:mx-10">
       <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10  mt-40 text-sm">
         <div>
-          <img className="mb-5 w-40" src={assets.logo} alt="" />
+          <img className="mb-5 w-40" src={assets.logo2} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
-            Prescripto offers a seamless way to book doctor appointments online.
+            Medisure offers a seamless way to book doctor appointments online.
             Discover verified healthcare professionals, schedule consultations
             with ease, and make secure online payments — anytime, anywhere.
           </p>
@@ -42,7 +42,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2025 @ Prescripto.com - All Right Reserved.
+          Copyright 2025 @ Medisure - All Right Reserved.
         </p>
       </div>
     </div>
